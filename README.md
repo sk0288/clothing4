@@ -6,3 +6,4 @@
 "# fashionmnist" 
 "# fashionmnist" 
 "# fashionmnist" 
+"# clothing" 
